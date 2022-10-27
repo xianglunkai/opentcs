@@ -26,6 +26,17 @@
 /openTCS-PlantOverview-Common/build/
 /openTCS-ModelEditor/build/
 /openTCS-OperationsDesk/build/
+/openTCS-CommAdapter-Loopback/bin/
+/openTCS-Kernel-Extension-HTTP-Services/bin/
+/openTCS-Kernel-Extension-RMI-Services/bin/
+/openTCS-Kernel/bin/
+/openTCS-KernelControlCenter/bin/
+/openTCS-ModelEditor/bin/
+/openTCS-OperationsDesk/bin/
+/openTCS-PeripheralCommAdapter-Loopback/bin/
+/openTCS-PlantOverview-Common/bin/
+/openTCS-PlantOverview-Panel-LoadGenerator/bin/
+/openTCS-PlantOverview-Panel-ResourceAllocation/bin/
 *.class
 *.png
 *.xsd
