@@ -26,3 +26,10 @@
 /openTCS-PlantOverview-Common/build/
 /openTCS-ModelEditor/build/
 /openTCS-OperationsDesk/build/
+*.class
+*.png
+*.xsd
+*.properties
+*.html
+*.form
+*.svg
